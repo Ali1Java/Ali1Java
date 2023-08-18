@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Ali1Java / Ali Sharifi
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning Java, Gnu/Linux
-- 📫 How to reach me : Ali.Sharifi.dev@gmail.com
+- 📫 Email: Ali.Sharifi.dev@gmail.com
 
 <!---
 Ali1Java/Ali1Java is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
